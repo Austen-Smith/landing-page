@@ -1,1 +1,1 @@
-# landing-page
+This will be a mock landing page intended to test my skills in building HTML and CSS files from scratch, styling with basic CSS properties, and laying out a webpage using Flexbox. 
