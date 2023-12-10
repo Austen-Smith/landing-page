@@ -1,0 +1,57 @@
+.thumbnail {
+  height: 100px;
+  width: 100px;
+}
+
+.thumb {
+  width: 150px;
+  height: 150px;
+}
+
+.header,
+.footer {
+  background-color: #1F2937;
+  color: #F9FAF8;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}
+
+.header-logo {
+  font-size: 24px;
+}
+
+button,
+.sign-up {
+  background-color: #3882F6;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1F2937;
+}
+
+.quote-section {
+  background-color: #E5E7EB;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1F2937;
+}
