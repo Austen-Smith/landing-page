@@ -54,6 +54,7 @@ h2 {
   font-size: 36px;
   font-weight: bolder;
   color: #1F2937;
+  align-self: center;
 }
 
 .quote-section {
@@ -100,6 +101,7 @@ button {
   border-color: white;
   color: white;
   font-weight: bold;
+  border-radius: 8px;
 }
 
 .hero-container {
@@ -124,4 +126,31 @@ p {
 
 .thumb {
   padding-right: 100px;
+}
+
+.top-button {
+  border: none;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px 150px;
+}
+
+.text-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 150px;
+}
+
+.under-photo {
+  max-width: 100px;
 }
